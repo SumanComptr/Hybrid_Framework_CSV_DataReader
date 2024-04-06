@@ -1,5 +1,5 @@
 Sample test automation project done on https://blazedemo.com/
-Implemented Automation testing Hybrid Framework on demo flight ticket booking website. Here, automation framework is capturing/reading passenger information from CSV file. We have followed these steps to design the automation hybrid framework - 
+Implemented Automation testing Hybrid Framework on demo flight ticket booking website. Here, automation framework is capturing/reading passenger information in bulk from CSV file. We have followed these steps to design the automation hybrid framework - 
 1. Developed config layer
 2. Developed Test Base layer
 3. Deveploped Page Object or Object Repository layer
